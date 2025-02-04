@@ -36,5 +36,24 @@
       "stl": null,
       "fbx": null
     }
+  },
+  {
+    "id": 3,
+    "title": "3D Robot Discord - Blender",
+    "name": "Discord - Blender",
+    "description": "Modélisation 3D du robot Discord, mascotte de l'application de messagerie éponyme. Modélisation, texturage et rendu réalisés avec Blender.",
+    "img": "https://cdnb.artstation.com/p/assets/images/images/065/996/599/large/cgcm-02.jpg?1691756848",
+    "images": [
+      "https://cdnb.artstation.com/p/assets/images/images/065/996/599/large/cgcm-02.jpg?1691756848",
+      "https://cdna.artstation.com/p/assets/images/images/065/996/618/large/cgcm-04.jpg?1691756882",
+      "https://cdnb.artstation.com/p/assets/images/images/065/996/587/large/cgcm-01.jpg?1691756829"
+    ],
+    "category": "Robots",
+    "publishedDate": "2021-04-16",
+    "files": {
+      "blend": "https://drive.google.com/file/d/1B9D5J_cP_2jx_IhxL5bbOR4utKJx3R33/view?usp=sharing",
+      "stl": null,
+      "fbx": null
+    }
   }
 ]
