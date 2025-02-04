@@ -1,32 +1,18 @@
 [
   {
     "id": 1,
-    "title": "Mob Psycho 100 - Mob",
+    "title": "DUO [ DUOLINGO] BLENDER",
     "name": "Mob",
     "description": "Le mob de Mob Psycho 100 : une entité en constante évolution, débordant de puissance psychique latente.",
-    "img": "https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg",
-    "images":["https://assistanteplus.fr/wp-content/uploads/2022/04/chat-midjourney.webp","https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg","https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg"],
-    "category": "Personnage",
-    "publishedDate": "2023-10-01",
+    "img": "https://cdna.artstation.com/p/assets/images/images/075/784/000/large/cgcm-05.jpg?1715418727",
+    "images":["https://cdna.artstation.com/p/assets/images/images/075/784/000/large/cgcm-05.jpg?1715418727","https://cdna.artstation.com/p/assets/images/images/075/783/990/large/cgcm-01.jpg?1715418702","https://cdnb.artstation.com/p/assets/images/images/075/784/007/large/cgcm-08.jpg?1715418746"],
+    "category": "mascottes",
+    "publishedDate": "2024-05-11",
     "files": {
-      "blend": "/path/to/mob.blend",
-      "stl": "/path/to/mob.stl",
-      "fbx": "/path/to/mob.fbx"
-    }
-  },
-  {
-    "id": 2,
-    "title": "Mob Psycho 100 - Reigen",
-    "name": "Reigen",
-    "description": "Reigen Arataka, le grand gourou spirituel de Mob Psycho 100.",
-    "img": "/path/to/test.png",
-     "images":[],
-    "category": "Personnage",
-    "publishedDate": "2023-10-05",
-    "files": {
-      "blend": "/path/to/reigen.blend",
-      "stl": "/path/to/reigen.stl",
-      "fbx": "/path/to/reigen.fbx"
+      "blend": "https://mega.nz/file/LfJzzAwT#leSaPF_AOquWj55eyp6NxzeZBqPM3hSkfty3obTRo_U",
+      "stl": "#",
+      "fbx": "#"
     }
   }
+
 ]
