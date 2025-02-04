@@ -1,0 +1,31 @@
+[
+  {
+    id: 1,
+    title: "Mob Psycho 100 - Mob",
+    name: "Mob",
+    description:
+      "Le mob de Mob Psycho 100 : une entité en constante évolution, débordant de puissance psychique latente.",
+    img: test,
+    category: "Personnage",
+    publishedDate: "2023-10-01",
+    files: {
+      blend: "/path/to/mob.blend",
+      stl: "/path/to/mob.stl",
+      fbx: "/path/to/mob.fbx",
+    },
+  },
+  {
+    id: 2,
+    title: "Mob Psycho 100 - Reigen",
+    name: "Reigen",
+    description: "Reigen Arataka, le grand gourou spirituel de Mob Psycho 100.",
+    img: test,
+    category: "Personnage",
+    publishedDate: "2023-10-05",
+    files: {
+      blend: "/path/to/reigen.blend",
+      stl: "/path/to/reigen.stl",
+      fbx: "/path/to/reigen.fbx",
+    },
+  },
+]
