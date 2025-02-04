@@ -17,5 +17,24 @@
       "stl": null,
       "fbx": null
     }
+  },
+  {
+    "id": 2,
+    "title": "Toon Monster [Concept Art par Noxlabs] - Blender",
+    "name": "Noxlabs",
+    "description": "Fan Art du Personnage 3D créé par Noxlabs, une entreprise de développement de jeux vidéo. Modélisation, texturage et rendu réalisés avec Blender.",
+    "img": "https://cdna.artstation.com/p/assets/images/images/053/086/020/large/cgcm-instafinal.jpg?1661378000",
+    "images": [
+      "https://cdna.artstation.com/p/assets/images/images/053/086/020/large/cgcm-instafinal.jpg?1661378000",
+      "https://cdnb.artstation.com/p/assets/images/images/045/226/495/large/cgcm-studio-art1-0.jpg?1642209005",
+      "https://cdnb.artstation.com/p/assets/images/images/053/086/031/large/cgcm-p2.jpg?1661378022"
+    ],
+    "category": "mascottes",
+    "publishedDate": "2021-04-16",
+    "files": {
+      "blend": "https://mega.nz/file/OOoQGBaQ#PTatZMWvFD1_cCY9BJ4KE6QXyCXZ_ro7VSOViZvuiaY",
+      "stl": null,
+      "fbx": null
+    }
   }
 ]
